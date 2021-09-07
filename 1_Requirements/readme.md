@@ -19,8 +19,8 @@ THREATS:
 
 High level requirements.
      
-         S.no  |   Description
-         ------|---------------------
-         HR01  |   Satisfy Player
+S.no  |   Description
+------|---------------------
+HR01  |   Satisfy Player
          
          
