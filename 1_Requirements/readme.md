@@ -21,6 +21,6 @@ THREATS:
      
          S.no  |   Description
          ------|---------------------
-         HR01  |   Satisfy Player 
+         HR01  |   Satisfy Player
          
          
