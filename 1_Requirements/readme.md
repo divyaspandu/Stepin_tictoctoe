@@ -16,15 +16,19 @@ WEAKNESS:
 Players are addicted easily.
          
 WHO
+
 Anyone who wants to play tic-tac-toe.
 
 WHEN
+
 Whenever a players wants to play to increase their fun.
 
 WHY
+
 This project can easily teach beginners and this gives relief to them
 
 HOW
+
 This project is implemented by using loops, function call and other functionalities of C.
 
 
