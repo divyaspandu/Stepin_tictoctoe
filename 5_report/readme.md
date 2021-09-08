@@ -38,4 +38,8 @@ S.no  |   Description
 ------|---------------------
 HR01  |   Satisfy Player
          
- This is the        
+The structural and behavioural architecture is as follows.
+[architecture of tictactoc.docx](https://github.com/divyaspandu/Stepin_tictoctoe/files/7126042/architecture.of.tictactoc.docx)
+
+The output of the tic-tac-toe game when a player wins
+
