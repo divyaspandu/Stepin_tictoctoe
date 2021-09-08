@@ -39,6 +39,7 @@ S.no  |   Description
 HR01  |   Satisfy Player
          
 The structural and behavioural architecture is as follows.
+
 [architecture of tictactoc.docx](https://github.com/divyaspandu/Stepin_tictoctoe/files/7126042/architecture.of.tictactoc.docx)
 
 The output of the tic-tac-toe game when a player wins
@@ -47,3 +48,4 @@ The output of the tic-tac-toe game when a player wins
 
 The output of the tic-tac-toe game when the game draw.
 
+![pic9](https://user-images.githubusercontent.com/89735931/132449262-9573dcc9-1ba6-45aa-84f4-cf7c923d0b38.jpeg)
