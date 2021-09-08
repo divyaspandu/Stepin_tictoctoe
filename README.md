@@ -14,4 +14,4 @@ Folder             |       Description
 1_Requirements     |   Documents detailing requirements and reseach
 2_Architecture     |   Documents specifying design details
 3_Implementation   |   All Code
-4_Test_plan        |   Otputs of the test code
+4_Test and output  |   Otputs of the test code
