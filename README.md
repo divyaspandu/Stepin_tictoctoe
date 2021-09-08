@@ -1,9 +1,9 @@
 # Stepin_tictoctoe
 Code inspector badges
 
-https://www.code-inspector.com/project/28022/score/svg
+![](https://www.code-inspector.com/project/28022/score/svg)
 
-https://www.code-inspector.com/project/28022/status/svg
+![](https://www.code-inspector.com/project/28022/status/svg)
 
 codacy badge
 
